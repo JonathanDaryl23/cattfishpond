@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "109592149605",
+    "project_id": "catfish-pond-dashboard",
+    "storage_bucket": "catfish-pond-dashboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109592149605:android:7173306386609cf5d1908c",
+        "android_client_info": {
+          "package_name": "com.example.catfishdashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHh_Yq7n6wPrrIT1GExOvM4X3KRMSidN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109592149605:android:1897d6885ca86389d1908c",
+        "android_client_info": {
+          "package_name": "com.example.dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHh_Yq7n6wPrrIT1GExOvM4X3KRMSidN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
